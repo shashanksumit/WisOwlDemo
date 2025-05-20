@@ -1,0 +1,133 @@
+SHASHANK SINGH Noida, India | +91 - 9820213496 | shashanksingh485@gmail.com | LinkedIn
+Accomplished Senior Software Engineer with 7+ years of experience specializing in Mobile Application Development for iOS
+platforms. Boasts strong technical expertise in Swift, UIKit, and modern iOS architecture patterns, including MVVM. Skilled in
+full app lifecycle management, integrating advanced functionalities, and enhancing user experiences. Proven leadership
+experience, having successfully constructed API using Node.js and led cross-functional teams to deliver high-quality mobile
+applications.
+✔ Recognized for delivering high-performance, scalable mobile solutions that boost user engagement and satisfaction.
+✔ Demonstrated ability to drive impactful projects, such as optimizing app performance, reducing latency, and integrating
+CI/CD pipelines for seamless, automated deployments.
+✔ Skilled in implementing multi-tenant solutions and developing scalable subscription-based apps.
+✔ Proficient with modern iOS development tools, including Xcode, Combine, async/await, and VS Code, ensuring robust,
+efficient, and maintainable applications.
+✔ Known for consistently improving performance, scalability, and user engagement across diverse platforms.
+Mobile Application Development | Full App Lifecycle Management | Cross-Functional Collaboration | Feature Design & Integration |
+CI/CD & Automation | API Creation, Integration & Optimization | User Experience Enhancement | Mentorship & Leadership
+TECHNICAL EXPERTISE
+Programming Languages: Swift, Objective-c, Node.js, Shell script(Basic)
+Frameworks/Libraries: Mobile Development - iOS, Swift | Architecture & Design Patterns - MVVM, MVVM - C, Navigation |
+Dependency Injection | Asynchronous Programming - GCD, Operation Queue | Testing - Unit Testing, Integration Testing | Core
+Development Kits - iOS SDK | Algorithms - Data Structures & Algorithms | Npm module - express
+Tools & Platforms: Version Control & CI/CD - Git, CI/CD (Bamboo) | Project Management & Collaboration - Jira, Confluence |
+Design & Prototyping - Figma
+Databases: Relational Databases - SQLite | NoSQL Databases - Firebase, Realm | Lightweight Storage - userDefaults and
+Keychain(For Small Data)
+KEY HIGHLIGHTS
+✪ Accelerated app performance at Caastle by architecting high-efficiency server-side APIs, slashing app latency by 20%, leading
+to a noticeably smoother user experience and improved load times.
+✪ Fortified security measures by integrating Recaptcha at login and implementing advanced Code Obfuscation techniques,
+significantly enhancing user security and boosting retention rates by safeguarding sensitive data.
+✪ Elevated user engagement through the creation of cutting-edge features like "Dart Go Beyond" and "AI Filter,
+" driving a
+30% increase in user interaction and setting new standards for app engagement and user satisfaction.
+✪ Empowered team growth by mentoring a team of 5 junior developers at Caastle, cultivating a high-performance culture and
+accelerating skill development, contributing to overall team productivity and innovation.
+WORK EXPERIENCE
+CaaStle Technology and Services, Delhi Senior Software Engineer (iOS Mobile Apps) | Sep 2021 - Present
+▪
+Led design/implementation of innovative features for iOS applications, enhancing user engagement/functionality.
+▪
+Collaborated with cross-functional teams to define/refine project specifications, aligning with business objectives.
+▪
+Engineered modular libraries for seamless integration across multiple applications, optimizing development efficiency.
+▪
+Administered Bamboo CI plans to automate Unit and Integration Tests, ensuring robust app performance and reliability.
+▪
+Established a CI/CD pipeline, streamlining deployment processes through automated and continuous delivery practices.
+Sproxil, Thane iOS Developer | Sep 2019 - Aug 2021
+▪
+Partnered with backend developers to seamlessly integrate RESTful web services into iOS applications.
+▪
+Collaborated with product management to convert complex business requirements into high-performance functionalities.
+▪
+Resolved critical bugs and enhanced application stability through meticulous testing and user feedback analysis.
+▪
+Integrated MLVision API for OCR capabilities within the apps
+CloudGanga Technologies, Mumbai ▪
+Designed/developed a comprehensive mobile application for the stock market from scratch.
+▪
+Integrate portfolios, order, Positions and Holding functionality.
+▪
+Adopt Autolayout based UI to support responsive design across iPhone/iPad.
+iOS Application Developer | Jul 2017 - Sep 2019
+EDUCATION
+MCA | University of Mumbai | 2017
+ANNEXURE: PROJECTS
+CaaStle
+Haverdash: Developed on CaaStle Mobile Platform, this single codebase, multi-tenant subscription-based lifestyle app caters to
+US customers. It offers a fully customizable shopping experience, adapting to user preferences. | Platform: iOS (Swift)
+Core Features:
+▪
+Visit Catalogue: Browse and explore a wide range of garments.
+▪
+Add to Closet: Save preferred garments for future shipments, ensuring a personalized selection.
+▪
+Unlimited Exchanges: Enjoy the flexibility to return garments anytime and receive new ones without limits.
+▪
+Try-Then-Buy: Experience garments before deciding to purchase, enhancing customer satisfaction.
+Responsibilities: Oversaw development/maintenance of iOS app. Designed & built project modules (libraries); ensured seamless
+integration with other apps. Managed Bamboo plans for building testing unit and integration tests for apps.
+Gwynnie Bee: A subscription-based fashion rental app designed for US customers for a flexible & engaging shopping experience.
+Platform: iOS (Swift)
+Core Features:
+▪
+Browse Product Catalog: Discover and explore a diverse range of garments.
+▪
+Add to Closet: Save favorite items for convenient future shipments.
+▪
+Try-Then-Buy: Purchase garments after trying them, providing a risk-free shopping experience.
+▪
+Loyalty Points: Reward users for consistent engagement, boosting customer retention.
+▪
+Expedite Favorite Garments: Opt for priority shipping of specific items for a premium fee.
+▪
+Write Reviews: Share feedback and rate garments, enhancing community engagement.
+Teacher Style Box: Developed on the CaaStle Mobile Platform as a multi-tenant, customizable lifestyle app for the third-party
+tenant “Teacher Style.
+” It offers a subscription-based shopping experience tailored to educators. | Platform: iOS (Swift)
+Core Features:
+▪
+Add to Closet: Curate a personalized selection of garments for future shipments.
+▪
+Try-Then-Buy: Try garments before purchasing, ensuring a satisfying shopping experience.
+▪
+Dart Integration: Engage users with interactive features, enhancing user experience.
+▪
+Product Reviews: Collect user feedback to continuously improve product offerings.
+Sproxil
+Sproxil Consumer & Provider: A dual app for consumer and drug company platforms where providers assemble medicine with a
+secure code and user to verify code using Sproxil Consumer for authenticity of drug. | Platform: iOS (Swift)
+Core Features:
+▪
+Provider: Add medicine vials/cartons with a security code.
+▪
+Track vials/Carton using the security code.
+▪
+Once it gets to Consumer, consumer able to check code and refuse if it’s discarded
+▪
+Verify drugs using security code by using their camera or code type.
+CloudGanga Technology
+Dynami: A stock market application, for trading in Indian stock market with Watchlist, orders, positions and holding section
+Platform: iOS (Swift/ Objective -C)
+Core Features:
+▪
+▪
+▪
+Stock trading: a fingertip action to buy or sell stocks(Equity, derivatives and futures).
+Watchlist: add or remove stocks which the user wants to track.
+Portfolio: Engage users with providing real time values of their holdings and positions.
+MYHPCL: A utility application to locate nearby HP service centres for their range of products. | Platform: iOS (Swift/ Objective -C)
+Core Features:
+Find nearby services: allowing users to find services by accessing locations..
+UPI Integration: allows users to pay from the applications to avail services.
+Support other languages: add capability to provide information in English and Hindi.

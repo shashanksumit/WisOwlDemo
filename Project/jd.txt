@@ -1,0 +1,36 @@
+Role: Software Engineer - Mobile(iOS)
+
+
+
+Roles & Responsibilities
+
+iOS Development: Contribute to the development and maintenance of iOS applications and internal frameworks under the guidance of senior engineers.
+Collaboration: Work closely with product managers, designers, and senior developers to understand features and translate them into technical implementations.
+API Integration: Help integrate RESTful APIs and backend services into the iOS platform.
+Coding and Testing: Write clean, maintainable, and well-documented code. Assist in unit testing and debugging tasks.
+Learning & Growth: Be open to learning SDK development, iOS architecture patterns, and platform-specific security best practices.
+Platform Awareness: Keep up-to-date with iOS platform updates and adopt best practices around performance and compatibility.
+Team Support: Participate in code reviews, pair programming, and internal knowledge sharing sessions.
+
+
+Skills Required
+
+1–2 years of professional iOS development experience.
+Proficiency in Swift; familiarity with Objective-C is a plus.
+Good understanding of iOS fundamentals including view controllers, navigation, table/collection views, etc.
+Experience integrating REST APIs and using popular libraries (e.g., Alamofire, SDWebImage).
+Exposure to UIKit; basic familiarity with SwiftUI is a bonus.
+Experience using Git for version control and familiarity with code reviews.
+Interest in clean code, architecture patterns (MVC/MVVM), and testable code.
+Good problem-solving and communication skills.
+Eagerness to learn about identity protocols, encryption, and modern iOS frameworks.
+Familiarity with tools like Xcode Instruments for debugging and performance profiling is a plus.
+Exposure to Core ML or Face/Liveness detection models is a bonus.
+
+
+Qualifications
+
+Bachelor's/Master’s degree in Computer Science, Computer Engineering, or equivalent technical degree. 
+Solid understanding of programming fundamentals (OOP, data structures, algorithms).
+Willingness to work in an agile, cross-functional team environment.
+Passion for building seamless, secure, and user-centric mobile experiences.
